@@ -1,7 +1,7 @@
 # Yamaha AX 570 Amp - Web Remote (ESP8266)
 Control your amp over network only with ESP8266 and code found in web site.  
 
-
+![Yamaha AX-570](img/yamaha-amp.jpg)
 
 If you have purchase a Yamaha ax 570 amp without the remote, no panic ! With this repo, you will be able to control him with your phone over network
 
@@ -17,4 +17,7 @@ If you have purchase a Yamaha ax 570 amp without the remote, no panic ! With thi
 * x1 950nm IR Led
 * x1 220ohms resistor
 
-# Schematic :
+# Schematic 
+![sch-ir-led](img/sch-ir-led.png)
+
+# End Result
