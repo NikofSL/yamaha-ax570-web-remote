@@ -8,8 +8,9 @@ If you have purchase a Yamaha ax 570 amp without the remote, no panic ! With thi
 # You will need
 
 >Software:
-   * ArduinoIDE (with instaled ESP8266 Board -> [Read How Here](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/))
-   * If you need another IR code for your web remote, you can found a bunch of [these](http://lirc-remotes.sourceforge.net/remotes-table.html)
+   * ArduinoIDE (with instaled ESP8266 Board -> [Read How Here](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/).
+   * If you need another IR code for your web remote, you can found a bunch of [these](http://lirc-remotes.sourceforge.net/remotes-table.html).
+   * WiFiManager from [here](WiFiManager).
   
 >Hardware:
 
