@@ -18,7 +18,7 @@ If you have purchase a Yamaha ax 570 amp without the remote, no panic ! With thi
 * x1 ESP8266 (NodeMcu 1.0/ESP12-12E)
 * x1 950nm IR Led
 * x1 220ohms resistor
-* 1x Power supply for ESP8266
+* x1 Power supply for ESP8266
 
 # Schematic 
 <img src="img/sch-ir-led.png" data-canonical-src="img/sch-ir-led.png" width="400" />
