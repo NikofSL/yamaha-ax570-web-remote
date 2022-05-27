@@ -28,9 +28,11 @@ If you have purchase a Yamaha ax 570 amp without the remote, no panic ! With thi
   * Install ESP8266 Board - [Read How here](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/).
   * Install WifiManager - [Read how here](https://github.com/tzapu/WiFiManager#install-through-library-manager).
   * Install IRremoteESP8266 - [Read how here](https://github.com/crankyoldgit/IRremoteESP8266#installation)
-2. Open source code with ArduinoIDE and upload code to ESP8266
+2. Open source [code](/prog/web-2-ir.ino) with ArduinoIDE and upload code to ESP8266
 3. Connect the IR-Led to the module(ESP8266)
 <img src="img/esp8266%2BIR.jpg" data-canonical-src="img/sch-ir-led.png" width="200" />
 
 # End Result
+[<img src="img/yamaha-web-2-ir.png" data-canonical-src="img/yamaha-web-2-ir.png" width="200" />](img/yamaha-web-2-ir.png)
+
 [<img src="https://img.youtube.com/vi/2LkhKPX8k_k/sddefault.jpg" data-canonical-src="https://img.youtube.com/vi/2LkhKPX8k_k/sddefault.jpg" width="200" />](https://www.youtube.com/watch?v=2LkhKPX8k_k)
